@@ -109,7 +109,7 @@ const App = () => {
     setdisabled(false);
   };
   return (
-    <div className="h-screen w-full bg-[#301934] ">
+    <div className="h-full w-full ">
       {/* Overlay for game instructions */}
       <div
         className={`fixed inset-0 bg-black/90 z-10 ${
