@@ -122,7 +122,7 @@ const App = () => {
             Read these steps carefully to play the game.
           </p>
           <ul className="mt-4 text-left  text-gray-700 space-y-2">
-            <li>✅ Step 1: You will get 15 turns to win the game.</li>
+            <li>✅ Step 1: You will get 17 turns to win the game.</li>
             <li>✅ Step 2: Click on the back of the card to flip it.</li>
             <li>✅ Step 3: You have to find matching card.</li>
             <li>✅ Step 4: Click on new game to play again.</li>
