@@ -38,7 +38,7 @@ const App = () => {
 
   const [firstRender, setfirstRender] = useState(true);
   const [cards, setcards] = useState([]);
-  const [turns, setturns] = useState(16);
+  const [turns, setturns] = useState(17);
   const [choiceOne, setchoiceOne] = useState(null);
   const [choiceTwo, setchoiceTwo] = useState(null);
   const [disabled, setdisabled] = useState(false);
@@ -52,7 +52,7 @@ const App = () => {
     setchoiceOne(null);
     setchoiceTwo(null);
     setcards(shuffledCards);
-    setturns(16);
+    setturns(17);
     setdisabled(false);
   };
 
